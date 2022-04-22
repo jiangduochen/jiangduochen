@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiangduochen
-- 👀 I’m interested in financial engineering. 
-- 🌱 I’m currently learning C#, C++.
+- 👀 I’m interested in financial engineering and data visulization. 
+- 🌱 I’m currently using java, C#, C++.
 - 💞️ I’m looking to collaborate on finanaicla analysis projects.
 - 📫 Welcome to reach me through ginger17@me.com. 
 
